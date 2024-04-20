@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">sub1fundamental</string>
+    <string name="search_users">Search Users</string>
+    <string name="isi_nama">isi nama</string>
+    <string name="name">name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">&#160;Followers</string>
+    <string name="tab_text_2">&#160;Following</string>
+    <string name="kosong">\n</string>
+    <string name="gambardetailprofil">gambardetailprofil</string>
+    <string name="gambarlistprofil">gambarlistprofil</string>
+    <string name="ini_adalah_tombol_favorite">ini adalah tombol favorite</string>
+
+    <!--    judul untuk activity-->
+    <string name="main_activty">Search User</string>
+    <string name="detail_activity">Detail User</string>
+    <string name="favorite_activity">Favorite User</string>
+    <string name="ini_adalah_tombol_untuk_ke_favorite_activity">ini adalah tombol untuk ke favorite activity</string>
+
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="refresh">Refresh</string>
+    <string name="favkosong">User Favorite Kosong!!</string>
+</resources>
